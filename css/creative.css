@@ -328,3 +328,11 @@ header.masthead p {
 p {
   font-family: 'M PLUS Rounded 1c', sans-serif;
 }
+
+#portRow {
+  box-shadow: 0px 0px 5px 5px;
+}
+
+#contact {
+  padding-bottom: 1rem;
+}
