@@ -6,6 +6,7 @@ html {
 
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 hr {
@@ -335,4 +336,12 @@ p {
 
 #contact {
   padding-bottom: 1rem;
+}
+
+#copy {
+  background: #1B537A;
+  max-width: 100%;
+  margin-bottom: 0;
+  color: white;
+  overflow-x: 0;
 }
